@@ -1,2 +1,2 @@
 # Gas-Dynamics-Simulator
-A sophisticated ideal gas simulator
+A sophisticated 2-D ideal gas simulator
